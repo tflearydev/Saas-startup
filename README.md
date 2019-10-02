@@ -1,4 +1,4 @@
-# StartupRocket 
+# Modern-Homepage
 
 Quick Frontend UI Build Concept from scratch, using mostly HTML, CSS, Bootstrap, some JS. Next Steps: Full build, multiple pages, a lot of JavaScript + dynamic UX/UI.
 
