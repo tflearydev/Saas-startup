@@ -9,9 +9,9 @@ ____
 * HTML, CSS, Bootstrap, some JavaScript
 
 
-<!-- ## Live Deployed Project Link -->
-<!-- ___ -->
-<!-- [Heroku](https://startup-rocket.herokuapp.com/) -->
+## Live Deployed App Link
+___
+[Hosted on Netlify](http://pensive-mcnulty-91bb47.netlify.com/)
 
 
 ## Quick Site Glance :
