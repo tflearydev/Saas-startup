@@ -9,9 +9,9 @@ ____
 * HTML, CSS, Bootstrap, some JavaScript
 
 
-## Live Deployed Project Link
-___
-[Heroku](https://startup-rocket.herokuapp.com/)
+<!-- ## Live Deployed Project Link -->
+<!-- ___ -->
+<!-- [Heroku](https://startup-rocket.herokuapp.com/) -->
 
 
 ## Quick Site Glance :
@@ -32,8 +32,3 @@ ____
 <img src='img/ss7.png' alt='site screenshot' height=450 width=450/>
 
 
-## Current / Upcoming 
-___
-
-* Frontend UI build from scratch using mostly HTML, CSS, and Bootstrap 
-* Will build out entire site next- multiple pages, a lot of JavaScript, and more dynamic ux/ui
