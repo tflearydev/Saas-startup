@@ -17,18 +17,18 @@ ___
 ## Quick Site Glance :
 ____
 
-<img src='img/ss1.png' alt='site screenshot' height=450 width=550/>
+<img src='img/ss1.png' alt='site screenshot' height=450 width=600/>
 
-<img src='img/ss2.png' alt='app screenshot' height=450 width=550/>
+<img src='img/ss2.png' alt='app screenshot' height=450 width=600/>
 
-<img src='img/ss3.png' alt='ui screenshot' height=450 width=550>
+<img src='img/ss3.png' alt='ui screenshot' height=450 width=600>
 
-<img src='img/ss4.png' alt='site screenshot' height=450 width=550/>
+<img src='img/ss4.png' alt='site screenshot' height=450 width=600/>
 
-<img src='img/ss5.png' alt='app screenshot' height=450 width=550/>
+<img src='img/ss5.png' alt='app screenshot' height=450 width=600/>
 
-<img src='img/ss6.png' alt='ui screenshot' height=450 width=550>
+<img src='img/ss6.png' alt='ui screenshot' height=450 width=600>
 
-<img src='img/ss7.png' alt='site screenshot' height=450 width=550/>
+<img src='img/ss7.png' alt='site screenshot' height=450 width=600/>
 
 
